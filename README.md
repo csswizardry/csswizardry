@@ -11,8 +11,6 @@ I’m currently booking clients for **Q4 2025 and beyond**.
 [Get in touch](https://csswizardry.com/contact/) if speed matters to your
 business.
 
-[Contact me](https://csswizardry.com/contact/) to get started.
-
 ## 🛠️ Open Source
 
 I don’t write as much code as I used to, but my biggest or most recent
