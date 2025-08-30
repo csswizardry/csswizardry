@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Harry
 
+![](./perfnow-2024.webp)
+
 I am a [Consultant Web Performance Engineer](https://csswizardry.com/) from the
 UK. I help some of the world’s largest and most respected organisations find and
 fix their site-speed issues.
@@ -16,9 +18,9 @@ business.
 I don’t write as much code as I used to, but my biggest or most recent
 contributions are:
 
-* [Obs.js](https://github.com/csswizardry/Obs.js): context-aware web performance
-  for everyone.
-* [inuitcss](https://github.com/inuitcss/inuitcss): an extensible, scalable,
+* **[Obs.js](https://github.com/csswizardry/Obs.js):** context-aware web
+  performance for everyone.
+* **[inuitcss](https://github.com/inuitcss/inuitcss):** an extensible, scalable,
   Sass-based, OOCSS framework for large and long-lasting UI projects.
 
 ## 🌍 Elsewhere
