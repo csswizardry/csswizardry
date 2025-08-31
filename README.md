@@ -20,12 +20,12 @@ business.
 I don’t write as much code as I used to, but my biggest or most recent
 contributions are:
 
-* **[Obs.js](https://github.com/csswizardry/Obs.js):** context-aware web
+* 🩺 **[Obs.js](https://github.com/csswizardry/Obs.js):** context-aware web
   performance for everyone.
-* **[`defaults.css`](https://github.com/csswizardry/defaults.css):**
+* 🧼 **[`defaults.css`](https://github.com/csswizardry/defaults.css):**
   a thoroughly modern, light-touch CSS reset for people who like writing CSS.
-* **[inuitcss](https://github.com/inuitcss/inuitcss):** an extensible, scalable,
-  Sass-based, OOCSS framework for large and long-lasting UI projects.
+* 🧱 **[inuitcss](https://github.com/inuitcss/inuitcss):** an extensible,
+  scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
 
 ## 🌍 Elsewhere
 
