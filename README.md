@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Harry
 
 ![](./perfnow-2024.webp)
-_— I am co-chair of performance.now()—_the_ conference for web performance
+_— I am co-chair of [performance.now()](https://perfnow.nl/)—_the_ conference
+for web performance
 professionals_
 
 I am a [Consultant Web Performance Engineer](https://csswizardry.com/) from the
