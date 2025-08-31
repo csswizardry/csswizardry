@@ -31,7 +31,7 @@ contributions are:
 
 Find me on:
 
-* [𝕏 (Twitter)](https://twitter.com/csswizardry)
-* [Bluesky](https://bsky.app/profile/csswizardry.com)
-* [LinkedIn](https://www.linkedin.com/in/csswizardry/)
-* [YouTube](https://www.youtube.com/@csswizardry?sub_confirmation=1)
+* 𝕏 [Twitter](https://twitter.com/csswizardry)
+* 🦋 [Bluesky](https://bsky.app/profile/csswizardry.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/csswizardry/)
+* 📺 [YouTube](https://www.youtube.com/@csswizardry?sub_confirmation=1)
