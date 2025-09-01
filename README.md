@@ -25,6 +25,8 @@ contributions are:
   performance for everyone.
 * 🧼 **[`defaults.css`](https://github.com/csswizardry/defaults.css):**
   a thoroughly modern, light-touch reset for people who like writing CSS.
+* 🧠 **[ct.css](https://github.com/csswizardry/ct):** Let’s take a look inside
+  your `<head>`.
 * 🧊 **[inuitcss](https://github.com/inuitcss/inuitcss):** an extensible,
   scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
 
